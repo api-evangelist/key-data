@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Key Data is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://keydata.co/
+Key Data provides real-time short-term rental data and analytics for professional property managers, vacation rental owners, and tourism organizations. Their platform aggregates data from major booking sites like VRBO and Airbnb, delivering insights to optimize property performance, market positioning, and revenue. The service includes industry reports, ROI calculators, and an API for developers to integrate rental market data into their applications.
+
+**Areas:** short-term rentals · real-time data · analytics · property management · vacation rentals
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://keydata.co/)
+- [Documentation](https://developer.keydatadashboard.com/)
+- [Getting started](https://www.keydata.co/how-it-works)
+- [API reference](https://developer.keydatadashboard.com/)
+- [Support](https://support.keydata.co/en/knowledge)
+- [Blog](https://www.keydata.co/blog)
+- [Terms of service](https://www.keydata.co/terms)
+- [Privacy policy](https://www.keydata.co/privacy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/key-data/](https://apis.io/providers/key-data/).
